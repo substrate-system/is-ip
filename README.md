@@ -15,7 +15,18 @@ Check if a string is an IP address.
 
 
 <details><summary><h2>Contents</h2></summary>
+
 <!-- toc -->
+
+- [install](#install)
+- [Formats](#formats)
+  * [ESM](#esm)
+  * [Common JS](#common-js)
+  * [pre-built JS](#pre-built-js)
+- [Example](#example)
+
+<!-- tocstop -->
+
 </details>
 
 ## install
