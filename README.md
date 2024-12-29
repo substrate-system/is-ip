@@ -1,4 +1,4 @@
-# package name here
+# is ip
 ![tests](https://github.com/substrate-system/is-ip/actions/workflows/nodejs.yml/badge.svg)
 [![types](https://img.shields.io/npm/types/@substrate-system/is-ip?style=flat-square)](README.md)
 [![module](https://img.shields.io/badge/module-ESM%2FCJS-blue?style=flat-square)](README.md)
