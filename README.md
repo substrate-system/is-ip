@@ -10,6 +10,7 @@
 
 Check if a string is an IP address.
 
+Like [Node's net.isIP function](https://nodejs.org/api/net.html#netisipinput), but in userland.
 
 [See the docs](https://substrate-system.github.io/is-ip/)
 
